@@ -1,0 +1,34 @@
+FROM registry.cn-qingdao.aliyuncs.com/cikm_bruce/bruceqd:15.0
+
+WORKDIR /competition
+
+COPY test.py .
+COPY run.sh .
+COPY upward_map.txt .
+COPY downward_map.txt .
+COPY item_Apriori.txt .
+COPY brand_count.csv .
+COPY category_count.csv .
+COPY itemID_count.csv .
+COPY shop_count.csv .
+COPY brand_sum.csv .
+COPY category_sum.csv .
+COPY itemID_sum.csv .
+COPY shop_sum.csv .
+COPY itemID_higher.csv .
+COPY category_higher.csv .
+COPY category_lower.csv .
+COPY item_rank.csv .
+COPY item_to_age_count_online.csv .
+COPY item_to_sex_count_online.csv .
+COPY item_to_ability_count_online.csv .
+COPY itemID_last_time_online.csv .
+COPY shop_last_time_online.csv .
+COPY category_last_time_online.csv .
+COPY brand_last_time_online.csv .
+COPY model0924_base.file .
+COPY lgb_0924_1652 .
+
+RUN chmod a+x  ./run.sh
+
+CMD ["sh","run.sh"]
