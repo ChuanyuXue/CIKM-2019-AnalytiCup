@@ -10,7 +10,7 @@ This repository contains the champion solution on CIKM 2019 EComm AI - Efficient
                  underline_trainning是训练模型、提取特征以及生成候选项集的文件
 
 ## 声明
-本项目库专门存放CIKM2019挑战赛《资金流入流出预测-挑战Baseline》的相关代码文件，所有代码仅供各位同学学习参考使用。如有任何对代码的问题请邮箱联系：cs_xcy@126.com
+本项目库专门存放CIKM2019挑战赛的相关代码文件，所有代码仅供各位同学学习参考使用。如有任何对代码的问题请邮箱联系：cs_xcy@126.com
 
 目前本人正在寻找2020年fall可能的PhD职位，各位老师如果有招收或推荐请与我联系，感激不尽。
 
