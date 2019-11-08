@@ -5,7 +5,9 @@ This repository contains the champion solution on CIKM 2019 EComm AI - Efficient
 
 ## 文件结构
     /Qualification 中存放着初赛的代码
-    /Semi-Finals 中存放复赛代码，其中online_recommendation是提交到docker上的文件，underline_trainning是训练模型、提取特征以及生成候选项集的文件
+    /Semi-Finals 中存放复赛代码
+                 online_recommendation是提交到docker上的文件，
+                 underline_trainning是训练模型、提取特征以及生成候选项集的文件
 
 ## 声明
 本项目库专门存放CIKM2019挑战赛《资金流入流出预测-挑战Baseline》的相关代码文件，所有代码仅供各位同学学习参考使用。如有任何对代码的问题请邮箱联系：cs_xcy@126.com
