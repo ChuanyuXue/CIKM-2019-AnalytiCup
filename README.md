@@ -8,6 +8,8 @@ This repository contains the champion solution on CIKM 2019 EComm AI - Efficient
     /Semi-Finals 中存放复赛代码
                  online_recommendation是提交到docker上的文件，
                  underline_trainning是训练模型、提取特征以及生成候选项集的文件
+                 
+    注意！有些文件较大未上传到github，除数据集外，所有缺失文件均可在代码中生成。
 
 ## 声明
 本项目库专门存放CIKM2019挑战赛的相关代码文件，所有代码仅供各位同学学习参考使用。如有任何对代码的问题请邮箱联系：cs_xcy@126.com
