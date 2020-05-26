@@ -20,4 +20,4 @@ This repository contains the champion solution on CIKM 2019 EComm AI - Efficient
 
 If you have any issue please feel free to contact me at cs_xcy@126.com
 
-天池ID：Chuanyu Xue & BruceQD & 人畜无害小白兔
+天池ID：BruceQD & 人畜无害小白兔 & **小雨姑娘**
