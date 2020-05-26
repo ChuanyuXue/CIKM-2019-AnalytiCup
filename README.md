@@ -3,6 +3,10 @@
 
 This repository contains the champion solution on CIKM 2019 EComm AI - Efficient and Novel Item Retrieval for Large-scale Online Shopping Recommendation Challenge.
 
+## 解决方案blog
+
+知乎文章：https://zhuanlan.zhihu.com/p/91506866/edit
+
 ## 文件结构
     /Qualification 中存放着初赛的代码
     /Semi-Finals 中存放复赛代码
