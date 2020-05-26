@@ -16,8 +16,4 @@ This repository contains the champion solution on CIKM 2019 EComm AI - Efficient
 
 If you have any issue please feel free to contact me at cs_xcy@126.com
 
-目前本人正在寻找2020年fall可能的PhD职位，各位老师如果有招收或推荐请与我联系，感激不尽。
-
-I am looking for PhD position in 2020 fall, I will be very appreciated for any opportunities.
-
 天池ID：Chuanyu Xue & BruceQD & 人畜无害小白兔
