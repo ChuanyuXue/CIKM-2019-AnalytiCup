@@ -36,15 +36,7 @@ This repository contains the champion solution on CIKM 2019 EComm AI - Efficient
             ├─Step1 itemCF_based_on_Apriori                # 基于Apriori关联规则法生成商品关联矩阵
             │      1_generate_user_logs.ipynb
             │      2_generate_hot_table.ipynb
-            │      3_generate_original_matrix_0.ipynb      # 采用并行方法加速商品矩阵运算（ipynb不支持multiprocessing并行，py文件可以）
-            │      3_generate_original_matrix_1.ipynb
-            │      3_generate_original_matrix_2.ipynb
-            │      3_generate_original_matrix_3.ipynb
-            │      3_generate_original_matrix_4.ipynb
-            │      3_generate_original_matrix_5.ipynb
-            │      3_generate_original_matrix_6.ipynb
-            │      3_generate_original_matrix_7.ipynb
-            │      3_generate_original_matrix_8.ipynb
+            │      3_generate_original_matrix.ipynb      # 快速相似度矩阵运算方法
             │      4_Merge.ipynb
             │      5_Save_sparse_to_dense.ipynb
             │      6_Sta_for_SparseMatrix.ipynb            # 将稀疏的关联矩阵转化为Hash结构以加快检索效率
